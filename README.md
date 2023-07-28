@@ -22,9 +22,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
-<h1 align="center">Hi 👋, I'm Vinicius</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viniciush97&label=Profile%20views&color=0e75b6&style=flat" alt="viniciush97" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viniciush97" alt="viniciush97" /></a> </p>
