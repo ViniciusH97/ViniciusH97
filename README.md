@@ -16,8 +16,6 @@
 <a href="https://www.youtube.com/channel/UCwpCJgjRHYYiMnvWjopZc5A" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=viniciush97)](https://git.io/streak-stats)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viniciush97&label=Profile%20views&color=0e75b6&style=flat" alt="viniciush97" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viniciush97" alt="viniciush97" /></a> </p>
@@ -27,5 +25,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciush97&show_icons=true&locale=en&layout=compact" alt="viniciush97" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viniciush97&show_icons=true&locale=en" alt="viniciush97" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viniciush97&" alt="viniciush97" /></p>
