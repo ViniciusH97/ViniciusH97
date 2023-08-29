@@ -12,7 +12,8 @@
 </picture>
 
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vinicius-lima-753551285/" target="blank"><img align="center"
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/vinicius-lima-753551285/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vinicius-lima-753551285/" height="30" width="40" /></a>
+</p>
 <a href="https://www.youtube.com/channel/UCwpCJgjRHYYiMnvWjopZc5A" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
 </p>
 
