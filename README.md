@@ -7,8 +7,6 @@ Sou estudante de **Bacharelado em Ciência da Computação** 🎓 e aqui no meu 
 - 📚 Atualmente, estou me aprofundando em **Cibersegurança**.
 - 🔍 Busco aprender e aplicar novos conhecimentos para enfrentar desafios do mundo digital.
 
-Fique à vontade para explorar meus projetos.
-
 ---
 
 <picture>
