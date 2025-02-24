@@ -1,3 +1,16 @@
+# Olá! Eu sou o Vinicius 👨‍💻
+
+Sou estudante de **Bacharelado em Ciência da Computação** 🎓 e, aqui no meu perfil, você encontrará alguns dos meus projetos desenvolvidos ao longo da minha jornada acadêmica.
+
+### Sobre mim:
+- 💻 **Interesses**: Cibersegurança 🔒 e Inteligência Artificial 🤖.
+- 📚 Atualmente, estou me aprofundando em **Cibersegurança** de forma ética e prática.
+- 🔍 Busco aprender e aplicar novos conhecimentos para enfrentar desafios do mundo digital.
+
+Fique à vontade para explorar meus projetos.
+
+---
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=ViniciusH97&show_icons=true&theme=dark"
