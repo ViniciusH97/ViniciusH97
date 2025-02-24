@@ -8,9 +8,8 @@ Sou estudante de **Bacharelado em Ciência da Computação** 🎓 e aqui no meu 
 - 🔍 Busco aprender e aplicar novos conhecimentos para enfrentar desafios do mundo digital.
 
 Fique à vontade para explorar meus projetos.
-Segue aí!
----
 
+---
 
 <picture>
   <source
