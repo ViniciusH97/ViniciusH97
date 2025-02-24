@@ -4,7 +4,7 @@ Sou estudante de **Bacharelado em Ciência da Computação** 🎓 e aqui no meu 
 
 ### Sobre mim:
 - 💻 **Interesses**: Cibersegurança 🔒 e Inteligência Artificial 🤖.
-- 📚 Atualmente, estou me aprofundando em **Cibersegurança**.
+- 📚 Atualmente, estou me aprofundando em Cibersegurança.
 - 🔍 Busco aprender e aplicar novos conhecimentos para enfrentar desafios no mundo digital.
 
 ---
