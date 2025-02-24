@@ -1,15 +1,17 @@
 # Olá! Eu sou o Vinicius 👨‍💻
 
-Sou estudante de **Bacharelado em Ciência da Computação** 🎓 e, aqui no meu perfil, você encontrará alguns dos meus projetos desenvolvidos ao longo da minha jornada acadêmica.
+Sou estudante de **Bacharelado em Ciência da Computação** 🎓 e aqui no meu perfil você encontrará alguns dos meus projetos desenvolvidos por mim ao longo da minha jornada acadêmica.
 
 ### Sobre mim:
 - 💻 **Interesses**: Cibersegurança 🔒 e Inteligência Artificial 🤖.
-- 📚 Atualmente, estou me aprofundando em **Cibersegurança** de forma ética e prática.
+- 📚 Atualmente, estou me aprofundando em **Cibersegurança**.
 - 🔍 Busco aprender e aplicar novos conhecimentos para enfrentar desafios do mundo digital.
 
 Fique à vontade para explorar meus projetos.
 
+**Segue aí!** 😊
 ---
+
 
 <picture>
   <source
