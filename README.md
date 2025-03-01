@@ -5,7 +5,7 @@ Sou estudante de **Bacharelado em Ciência da Computação** 🎓 no IFSULDEMINA
 ### Sobre mim:
 - 💻 **Interesses**: Cibersegurança 🔒 e Inteligência Artificial 🤖.
 - 📚 Atualmente, estou me aprofundando em Cibersegurança.
-- 🔍 Busco aprender e aplicar novos conhecimentos para enfrentar desafios no mundo digital.
+- 🔍 Busco aprender e aplicar novos conhecimentos para enfrentar desafios na área da tecnologia e informação.
 
 
 <div>
