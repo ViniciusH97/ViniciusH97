@@ -1,11 +1,17 @@
 # Olá! Eu sou o Vinicius.
 
-Sou estudante de **Bacharelado em Ciência da Computação** 🎓 no IFSULDEMINAS - Campus Muzambinho, e aqui no meu perfil você encontrará alguns dos meus projetos desenvolvidos ao longo da minha jornada acadêmica.
+Sou estudante de **Bacharelado em Ciência da Computação** 🎓 no IFSULDEMINAS - Campus Muzambinho. Aqui estão meus projetos que desenvolvi ao longo da minha jornada acadêmica e projetos pessoais.
 
 ### Sobre mim:
 - 💻 **Interesses**: Back-End 👨‍💻 , Cibersegurança 🔒, Inteligência Artificial 🤖 e Cloud ☁.
-- 📚 Atualmente, estou me aprofundando em Cibersegurança.
 - 🔍 Busco aprender e aplicar novos conhecimentos para enfrentar desafios na área da tecnologia da informação.
+
+### Tecnologias: 
+- Linguagens: Python, JavaScript, C/C++, Java
+- Frameworks: Django, Bootstrap, Electron
+- Bancos de Dados: MySQL, PostgreSQL
+- Sistemas Operacionais: Linux (Ubuntu, Kali Linux)
+- Ferramentas: Git
 
 <div>
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
