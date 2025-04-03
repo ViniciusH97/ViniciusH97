@@ -3,7 +3,7 @@
 Sou estudante de **Bacharelado em Ciência da Computação** 🎓 no IFSULDEMINAS - Campus Muzambinho, e aqui no meu perfil você encontrará alguns dos meus projetos desenvolvidos ao longo da minha jornada acadêmica.
 
 ### Sobre mim:
-- 💻 **Interesses**: Cibersegurança 🔒, Inteligência Artificial 🤖 e Cloud ☁.
+- 💻 **Interesses**: Back-End 🖥 , Cibersegurança 🔒, Inteligência Artificial 🤖 e Cloud ☁.
 - 📚 Atualmente, estou me aprofundando em Cibersegurança.
 - 🔍 Busco aprender e aplicar novos conhecimentos para enfrentar desafios na área da tecnologia da informação.
 
