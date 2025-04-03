@@ -6,23 +6,10 @@ Sou estudante de **Bacharelado em Ciência da Computação** 🎓 no IFSULDEMINA
 - 💻 **Interesses**: Back-End 👨‍💻 , Cibersegurança 🔒, Inteligência Artificial 🤖 e Cloud ☁.
 - 🔍 Busco aprender e aplicar novos conhecimentos para enfrentar desafios na área da tecnologia da informação.
 
-### Tecnologias: 
-- Linguagens: Python, JavaScript, C/C++, Java
-- Frameworks: Django, Bootstrap, Electron
-- Bancos de Dados: MySQL, PostgreSQL
-- Sistemas Operacionais: Linux (Ubuntu, Kali Linux)
-- Ferramentas: Git
+<div align="center"> <!-- Linguagens --> <img src="https://skillicons.dev/icons?i=python,js,cpp,java" alt="Linguagens" /> <!-- Frameworks --> <img src="https://skillicons.dev/icons?i=django,bootstrap,electron" alt="Frameworks" /> <!-- Bancos de Dados --> <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Bancos de Dados" /> <!-- Sistemas Operacionais --> <img src="https://skillicons.dev/icons?i=linux" alt="Linux" /> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="40" height="40" alt="Kali Linux" /> <!-- Ferramentas --> <img src="https://skillicons.dev/icons?i=git" alt="Ferramentas" /> </div>
 
-<div>
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-</div>
+---
 
-<div>
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-  <img src="https://img.shields.io/badge/-Kali%20Linux-557C92?style=flat-square&logo=kali-linux&logoColor=white" alt="Kali Linux" />
-</div>
 <p>
   <a href="https://youtube.com/@viniciuslima384f?si=t1pY2vIhrUSQbm5N" target="blank">
     <img
@@ -41,4 +28,3 @@ Sou estudante de **Bacharelado em Ciência da Computação** 🎓 no IFSULDEMINA
   <img src="https://github-readme-stats.vercel.app/api?username=ViniciusH97&show_icons=true&theme=dark" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciush97&show_icons=true&locale=en&layout=compact&theme=dark" width="35%" />
 </div>
-
