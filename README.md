@@ -8,8 +8,6 @@ Sou estudante de **Bacharelado em Ciência da Computação** 🎓 no IFSULDEMINA
 
 <div align="center"> <!-- Linguagens --> <img src="https://skillicons.dev/icons?i=python,js,cpp,java" alt="Linguagens" /> <!-- Frameworks --> <img src="https://skillicons.dev/icons?i=django,bootstrap,electron" alt="Frameworks" /> <!-- Bancos de Dados --> <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Bancos de Dados" /> <!-- Sistemas Operacionais --> <img src="https://skillicons.dev/icons?i=linux" alt="Linux" /> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="40" height="40" alt="Kali Linux" /> <!-- Ferramentas --> <img src="https://skillicons.dev/icons?i=git" alt="Ferramentas" /> </div>
 
----
-
 <p>
   <a href="https://youtube.com/@viniciuslima384f?si=t1pY2vIhrUSQbm5N" target="blank">
     <img
