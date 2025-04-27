@@ -1,6 +1,6 @@
-# Olá! Eu sou o Vinicius.
+# Eu sou o Vinicius.
 
-Sou estudante de **Bacharelado em Ciência da Computação** 🎓 no IFSULDEMINAS - Campus Muzambinho. Aqui estão meus projetos que desenvolvi ao longo da minha jornada acadêmica e projetos pessoais.
+Estudante de **Bacharelado em Ciência da Computação** no IFSULDEMINAS - Campus Muzambinho. Aqui estão meus projetos que desenvolvi ao longo da minha jornada acadêmica e projetos pessoais.
 
 ### Sobre mim:
 - 💻 **Interesses**: Back-End 👨‍💻 , Cibersegurança 🔒, Inteligência Artificial 🤖 e Cloud ☁.
