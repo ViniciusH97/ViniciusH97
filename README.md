@@ -1,5 +1,3 @@
-# Olá, eu sou o Vinicius.
-
 Estudante de **Bacharelado em Ciência da Computação** no IFSULDEMINAS - Campus Muzambinho. Aqui estão meus projetos que desenvolvi ao longo da minha jornada acadêmica e projetos pessoais.
 
 ### Sobre mim:
