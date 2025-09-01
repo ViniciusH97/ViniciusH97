@@ -4,14 +4,23 @@ Estudante de **Bacharelado em Ciência da Computação** no IFSULDEMINAS - Campu
 - **Interesses**: Back-End e Cibersegurança.
 - Busco aprender e aplicar novos conhecimentos para enfrentar desafios na área da tecnologia da informação.
 
+---
+
 <p>
   <a href="https://youtube.com/@viniciuslima384f?si=t1pY2vIhrUSQbm5N" target="blank">
     <img
-      align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
       alt="YouTube"
-      height="30"
-      width="40"
+      height="25"
+      width="30"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/vinicius-lima-753551285/" target="blank">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+      height="25"
+      width="75"
     />
   </a>
 </p>
