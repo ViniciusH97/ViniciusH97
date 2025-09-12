@@ -28,6 +28,6 @@ Estudante de **Bacharelado em Ciência da Computação** no IFSULDEMINAS - Campu
 ---
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ViniciusH97&show_icons=true&theme=dark" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciush97&show_icons=true&locale=en&layout=compact&theme=dark" width="35%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ViniciusH97&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciush97&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="35%" />
 </div>
