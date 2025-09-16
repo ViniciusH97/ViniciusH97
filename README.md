@@ -7,6 +7,10 @@ Estudante de **Bacharelado em Ciência da Computação** no IFSULDEMINAS - Campu
 ---
 
 <p>
+  <a
+  <img src="https://github-readme-stats.vercel.app/api?        username=ViniciusH97&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=alse&order=1" height="150" alt="stats graph"
+    />  
+  </a>
   <a href="https://youtube.com/@viniciuslima384f?si=t1pY2vIhrUSQbm5N" target="blank">
     <img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
