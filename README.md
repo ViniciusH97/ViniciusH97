@@ -1,7 +1,7 @@
 Estudante de **Bacharelado em Ciência da Computação** no IFSULDEMINAS - Campus Muzambinho. Aqui estão meus projetos que desenvolvi ao longo da minha jornada acadêmica e projetos pessoais.
 
 ### Sobre mim:
-- **Interesses**: Back-End e Cibersegurança.
+- **Interesses**: Backend e Cibersegurança.
 - Busco aprender e aplicar novos conhecimentos para enfrentar desafios na área da tecnologia da informação.
 
 ---
