@@ -1,8 +1,12 @@
-Estudante de **Bacharelado em Ciência da Computação** no IFSULDEMINAS - Campus Muzambinho. Aqui estão meus projetos que desenvolvi ao longo da minha jornada acadêmica e projetos pessoais.
+Analista de segurança da informação, atuando em Red Team/Pentester 
+
+Bacharel em Ciência da Computação pelo IFSULDEMINAS - Campus Muzambinho. 👩‍💻 
+
+Aqui encontrará meus projetos que desenvolvi ao longo da minha jornada acadêmica e projetos pessoais.
 
 ### Sobre mim:
-- **Interesses**: Backend e Cibersegurança.
-- Busco aprender e aplicar novos conhecimentos para enfrentar desafios na área da tecnologia da informação.
+- Interesses: Backend e Cibersegurança.
+- Busco aprender segurança ofensiva e cibersegurançao, encontrando vulnerabilidades e falhas de segurança que possa comprometer sistemas.
 
 ---
 
