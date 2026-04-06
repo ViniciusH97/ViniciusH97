@@ -6,7 +6,7 @@ Aqui encontrará meus projetos que desenvolvi ao longo da minha jornada acadêmi
 
 ### Sobre mim:
 - Interesses: Backend e Cibersegurança.
-- Busco aprender segurança ofensiva e cibersegurançao, encontrando vulnerabilidades e falhas de segurança que possa comprometer sistemas.
+- Busco aprender segurança ofensiva e cibersegurança, encontrando vulnerabilidades e falhas de segurança que possa comprometer sistemas.
 
 ---
 
