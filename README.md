@@ -19,6 +19,7 @@ Aqui encontrará meus projetos que desenvolvi ao longo da minha jornada acadêmi
       width="30"
     />
   </a>
+<br>
   <a href="https://www.linkedin.com/in/vinicius-lima-753551285/" target="blank">
     <img
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"
